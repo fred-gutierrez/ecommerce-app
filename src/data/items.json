@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Motherboard 1",
+        "price": 10.99,
+        "imgUrl": "/images/motherboard1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Motherboard 2",
+        "price": 20.99,
+        "imgUrl": "/images/motherboard2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Motherboard 3",
+        "price": 30.99,
+        "imgUrl": "/images/motherboard3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Motherboard 4",
+        "price": 40.99,
+        "imgUrl": "/images/motherboard4.jpg"
+    }
+]
