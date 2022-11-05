@@ -1,26 +1,38 @@
 [
-    {
-        "id": 1,
-        "name": "Motherboard 1",
-        "price": 10.99,
-        "imgUrl": "/images/motherboard1.jpg"
-    },
-    {
-        "id": 2,
-        "name": "Motherboard 2",
-        "price": 20.99,
-        "imgUrl": "/images/motherboard2.jpg"
-    },
-    {
-        "id": 3,
-        "name": "Motherboard 3",
-        "price": 30.99,
-        "imgUrl": "/images/motherboard3.jpg"
-    },
-    {
-        "id": 4,
-        "name": "Motherboard 4",
-        "price": 40.99,
-        "imgUrl": "/images/motherboard4.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Steelcase Series 1",
+    "price": 451.99,
+    "imgUrl": "/images/SteelcaseSeries1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Autonomous ErgoChair Pro",
+    "price": 549.99,
+    "imgUrl": "/images/AutonomousErgoChairPro.jpg"
+  },
+  {
+    "id": 3,
+    "name": "X-Chair X1 Task Chair",
+    "price": 699.99,
+    "imgUrl": "/images/X-ChairX1TaskChair.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HON Ignition 2.0 Mid-Back Chair",
+    "price": 412.99,
+    "imgUrl": "/images/HONIgnition2.0Mid-BackChair﻿.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Herman Miller Sayl Chair",
+    "price": 718.99,
+    "imgUrl": "/images/HermanMillerSaylChair.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Steelcase Gesture",
+    "price": 1285.99,
+    "imgUrl": "/images/SteelcaseGesture.jpg"
+  }
 ]
